@@ -1,0 +1,16 @@
+{
+    "name": "category",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "dev": "gulp dev"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-webserver": "^0.9.1"
+    }
+}
